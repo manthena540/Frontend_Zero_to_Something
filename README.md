@@ -20,7 +20,7 @@ Follow these steps to navigate different branches and start practicing:
 ### 👉 **Using Git Command Line (CLI)**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/Frontend_Zero_to_Something.git  
+   git clone https://github.com/manthena540/Frontend_Zero_to_Something.git
    ```  
 2. Navigate to the repository:  
    ```bash  
